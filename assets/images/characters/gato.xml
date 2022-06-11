@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gato.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gato DOWN Note0000" x="25" y="25" width="369" height="518" frameX="0" frameY="-7" frameWidth="384" frameHeight="525"/>
+	<SubTexture name="Gato DOWN Note0001" x="25" y="25" width="369" height="518" frameX="0" frameY="-7" frameWidth="384" frameHeight="525"/>
+	<SubTexture name="Gato DOWN Note0002" x="419" y="25" width="384" height="524" frameX="0" frameY="-1" frameWidth="384" frameHeight="525"/>
+	<SubTexture name="Gato DOWN Note0003" x="419" y="25" width="384" height="524" frameX="0" frameY="-1" frameWidth="384" frameHeight="525"/>
+	<SubTexture name="Gato DOWN Note0004" x="828" y="25" width="384" height="524" frameX="0" frameY="-1" frameWidth="384" frameHeight="525"/>
+	<SubTexture name="Gato DOWN Note0005" x="1237" y="25" width="384" height="525"/>
+	<SubTexture name="Gato DOWN Note0006" x="1237" y="25" width="384" height="525"/>
+	<SubTexture name="Gato DOWN Note0007" x="419" y="25" width="384" height="524" frameX="0" frameY="-1" frameWidth="384" frameHeight="525"/>
+	<SubTexture name="Gato DOWN Note0008" x="419" y="25" width="384" height="524" frameX="0" frameY="-1" frameWidth="384" frameHeight="525"/>
+	<SubTexture name="Gato DOWN Note0009" x="828" y="25" width="384" height="524" frameX="0" frameY="-1" frameWidth="384" frameHeight="525"/>
+	<SubTexture name="Gato DOWN Note0010" x="1237" y="25" width="384" height="525"/>
+	<SubTexture name="Gato DOWN Note0011" x="1237" y="25" width="384" height="525"/>
+	<SubTexture name="Gato DOWN Note0012" x="419" y="25" width="384" height="524" frameX="0" frameY="-1" frameWidth="384" frameHeight="525"/>
+	<SubTexture name="Gato DOWN Note0013" x="419" y="25" width="384" height="524" frameX="0" frameY="-1" frameWidth="384" frameHeight="525"/>
+	<SubTexture name="Gato IDLE Dance0000" x="1646" y="25" width="430" height="526" frameX="0" frameY="0" frameWidth="430" frameHeight="527"/>
+	<SubTexture name="Gato IDLE Dance0001" x="1646" y="25" width="430" height="526" frameX="0" frameY="0" frameWidth="430" frameHeight="527"/>
+	<SubTexture name="Gato IDLE Dance0002" x="2101" y="25" width="415" height="517" frameX="-4" frameY="-10" frameWidth="430" frameHeight="527"/>
+	<SubTexture name="Gato IDLE Dance0003" x="2541" y="25" width="416" height="521" frameX="-4" frameY="-5" frameWidth="430" frameHeight="527"/>
+	<SubTexture name="Gato IDLE Dance0004" x="2982" y="25" width="417" height="522" frameX="-4" frameY="-4" frameWidth="430" frameHeight="527"/>
+	<SubTexture name="Gato IDLE Dance0005" x="3424" y="25" width="420" height="525" frameX="-1" frameY="-1" frameWidth="430" frameHeight="527"/>
+	<SubTexture name="Gato IDLE Dance0006" x="25" y="576" width="429" height="526" frameX="0" frameY="0" frameWidth="430" frameHeight="527"/>
+	<SubTexture name="Gato IDLE Dance0007" x="479" y="576" width="430" height="526" frameX="0" frameY="0" frameWidth="430" frameHeight="527"/>
+	<SubTexture name="Gato IDLE Dance0008" x="934" y="576" width="430" height="526" frameX="0" frameY="0" frameWidth="430" frameHeight="527"/>
+	<SubTexture name="Gato IDLE Dance0009" x="1389" y="576" width="430" height="526" frameX="0" frameY="0" frameWidth="430" frameHeight="527"/>
+	<SubTexture name="Gato IDLE Dance0010" x="1646" y="25" width="430" height="526" frameX="0" frameY="0" frameWidth="430" frameHeight="527"/>
+	<SubTexture name="Gato IDLE Dance0011" x="1646" y="25" width="430" height="526" frameX="0" frameY="0" frameWidth="430" frameHeight="527"/>
+	<SubTexture name="Gato IDLE Dance0012" x="934" y="576" width="430" height="526" frameX="0" frameY="0" frameWidth="430" frameHeight="527"/>
+	<SubTexture name="Gato IDLE Dance0013" x="934" y="576" width="430" height="526" frameX="0" frameY="0" frameWidth="430" frameHeight="527"/>
+	<SubTexture name="Gato LEFT Note0000" x="1844" y="576" width="422" height="526"/>
+	<SubTexture name="Gato LEFT Note0001" x="1844" y="576" width="422" height="526"/>
+	<SubTexture name="Gato LEFT Note0002" x="2291" y="576" width="411" height="525" frameX="-10" frameY="-1" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="Gato LEFT Note0003" x="2291" y="576" width="411" height="525" frameX="-10" frameY="-1" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="Gato LEFT Note0004" x="2727" y="576" width="411" height="524" frameX="-10" frameY="-2" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="Gato LEFT Note0005" x="3163" y="576" width="411" height="525" frameX="-10" frameY="-1" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="Gato LEFT Note0006" x="3163" y="576" width="411" height="525" frameX="-10" frameY="-1" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="Gato LEFT Note0007" x="2291" y="576" width="411" height="525" frameX="-10" frameY="-1" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="Gato LEFT Note0008" x="2291" y="576" width="411" height="525" frameX="-10" frameY="-1" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="Gato LEFT Note0009" x="2727" y="576" width="411" height="524" frameX="-10" frameY="-2" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="Gato LEFT Note0010" x="3163" y="576" width="411" height="525" frameX="-10" frameY="-1" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="Gato LEFT Note0011" x="3163" y="576" width="411" height="525" frameX="-10" frameY="-1" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="Gato LEFT Note0012" x="2291" y="576" width="411" height="525" frameX="-10" frameY="-1" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="Gato LEFT Note0013" x="2291" y="576" width="411" height="525" frameX="-10" frameY="-1" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="Gato RIGHT Note0000" x="3599" y="576" width="414" height="526" frameX="-6" frameY="0" frameWidth="420" frameHeight="526"/>
+	<SubTexture name="Gato RIGHT Note0001" x="3599" y="576" width="414" height="526" frameX="-6" frameY="0" frameWidth="420" frameHeight="526"/>
+	<SubTexture name="Gato RIGHT Note0002" x="25" y="1127" width="411" height="523" frameX="0" frameY="-3" frameWidth="420" frameHeight="526"/>
+	<SubTexture name="Gato RIGHT Note0003" x="25" y="1127" width="411" height="523" frameX="0" frameY="-3" frameWidth="420" frameHeight="526"/>
+	<SubTexture name="Gato RIGHT Note0004" x="461" y="1127" width="411" height="522" frameX="0" frameY="-4" frameWidth="420" frameHeight="526"/>
+	<SubTexture name="Gato RIGHT Note0005" x="897" y="1127" width="411" height="523" frameX="0" frameY="-3" frameWidth="420" frameHeight="526"/>
+	<SubTexture name="Gato RIGHT Note0006" x="897" y="1127" width="411" height="523" frameX="0" frameY="-3" frameWidth="420" frameHeight="526"/>
+	<SubTexture name="Gato RIGHT Note0007" x="25" y="1127" width="411" height="523" frameX="0" frameY="-3" frameWidth="420" frameHeight="526"/>
+	<SubTexture name="Gato RIGHT Note0008" x="25" y="1127" width="411" height="523" frameX="0" frameY="-3" frameWidth="420" frameHeight="526"/>
+	<SubTexture name="Gato RIGHT Note0009" x="461" y="1127" width="411" height="522" frameX="0" frameY="-4" frameWidth="420" frameHeight="526"/>
+	<SubTexture name="Gato RIGHT Note0010" x="897" y="1127" width="411" height="523" frameX="0" frameY="-3" frameWidth="420" frameHeight="526"/>
+	<SubTexture name="Gato RIGHT Note0011" x="897" y="1127" width="411" height="523" frameX="0" frameY="-3" frameWidth="420" frameHeight="526"/>
+	<SubTexture name="Gato RIGHT Note0012" x="25" y="1127" width="411" height="523" frameX="0" frameY="-3" frameWidth="420" frameHeight="526"/>
+	<SubTexture name="Gato RIGHT Note0013" x="25" y="1127" width="411" height="523" frameX="0" frameY="-3" frameWidth="420" frameHeight="526"/>
+	<SubTexture name="Gato UP Note0000" x="1333" y="1127" width="369" height="539" frameX="-2" frameY="0" frameWidth="375" frameHeight="539"/>
+	<SubTexture name="Gato UP Note0001" x="1333" y="1127" width="369" height="539" frameX="-2" frameY="0" frameWidth="375" frameHeight="539"/>
+	<SubTexture name="Gato UP Note0002" x="1727" y="1127" width="374" height="520" frameX="-1" frameY="-18" frameWidth="375" frameHeight="539"/>
+	<SubTexture name="Gato UP Note0003" x="1727" y="1127" width="374" height="520" frameX="-1" frameY="-18" frameWidth="375" frameHeight="539"/>
+	<SubTexture name="Gato UP Note0004" x="2126" y="1127" width="374" height="518" frameX="-1" frameY="-19" frameWidth="375" frameHeight="539"/>
+	<SubTexture name="Gato UP Note0005" x="2525" y="1127" width="375" height="520" frameX="0" frameY="-18" frameWidth="375" frameHeight="539"/>
+	<SubTexture name="Gato UP Note0006" x="2525" y="1127" width="375" height="520" frameX="0" frameY="-18" frameWidth="375" frameHeight="539"/>
+	<SubTexture name="Gato UP Note0007" x="1727" y="1127" width="374" height="520" frameX="-1" frameY="-18" frameWidth="375" frameHeight="539"/>
+	<SubTexture name="Gato UP Note0008" x="1727" y="1127" width="374" height="520" frameX="-1" frameY="-18" frameWidth="375" frameHeight="539"/>
+	<SubTexture name="Gato UP Note0009" x="2126" y="1127" width="374" height="518" frameX="-1" frameY="-19" frameWidth="375" frameHeight="539"/>
+	<SubTexture name="Gato UP Note0010" x="2525" y="1127" width="375" height="520" frameX="0" frameY="-18" frameWidth="375" frameHeight="539"/>
+	<SubTexture name="Gato UP Note0011" x="2525" y="1127" width="375" height="520" frameX="0" frameY="-18" frameWidth="375" frameHeight="539"/>
+	<SubTexture name="Gato UP Note0012" x="1727" y="1127" width="374" height="520" frameX="-1" frameY="-18" frameWidth="375" frameHeight="539"/>
+	<SubTexture name="Gato UP Note0013" x="1727" y="1127" width="374" height="520" frameX="-1" frameY="-18" frameWidth="375" frameHeight="539"/>
+</TextureAtlas>
